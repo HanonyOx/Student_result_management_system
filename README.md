@@ -47,7 +47,7 @@ Testing
 
 ## SDLC 
 
-✅ PROJECT TITLE
+## ✅ PROJECT TITLE
 
 Student Result Management System (Console-Based)
 
@@ -55,11 +55,11 @@ A simple system that allows a user to input student details and calculate the av
 
 This project is simple, academic, and perfect for SEN assignments.
 
-✅ 1. SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
+## ✅ 1. SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
 
 We will use the Waterfall Model, which is commonly taught.
 
-1️⃣ Requirement Analysis
+# 1️⃣ Requirement Analysis
 
 At this stage, the problem is identified and requirements are gathered.
 
@@ -85,7 +85,7 @@ The program should run on a command-line interface
 
 The program should produce accurate results
 
-2️⃣ System Design
+# 2️⃣ System Design
 
 This stage defines how the system will work.
 
@@ -127,7 +127,7 @@ End
 
 ⚠️ Note: Names like average, score, grade used here will also appear in the code.
 
-3️⃣ Implementation
+# 3️⃣ Implementation
 
 This is where the system is coded.
 
@@ -159,7 +159,7 @@ print("\nStudent Name:", name)
 print("Average Score:", average)
 print("Grade:", grade)
 
-4️⃣ Testing
+# 4️⃣ Testing
 
 This stage checks if the system works correctly.
 
@@ -173,7 +173,7 @@ Input high scores → correct distinction grade
 
 The system was tested using different score values and produced correct results.
 
-5️⃣ Deployment
+# 5️⃣ Deployment
 
 The project is deployed by:
 
@@ -181,7 +181,7 @@ Saving the program as student_result.py
 
 Uploading it to a GitHub repository
 
-6️⃣ Maintenance
+# 6️⃣ Maintenance
 
 Future improvements may include:
 
