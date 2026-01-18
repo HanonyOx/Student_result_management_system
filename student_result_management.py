@@ -17,6 +17,7 @@ elif average >= 50:
 else:
     grade = "F"
 
+print("\n--- Student Result ---")
 print("\nStudent Name:", name)
 print("Average Score:", average)
 print("Grade:", grade)
